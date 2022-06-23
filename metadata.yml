@@ -1,0 +1,5 @@
+homepage: "https://www.sogody.com"
+documentation: "https://github.com/Sogody/array-map-gtm-template"
+versions:
+  - sha: 868073cad28d0c78e8d4eb24b2a76ecb02b95971
+    changeNotes: Initial release.
