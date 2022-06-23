@@ -30,5 +30,5 @@ Key | Value Path | Constant | Stringify the resulting value
 quantity | quantity | false | false
 content_id | product.id | false | true
 content_name | name | false | false
-content_type | product_group | false
+content_type | product_group | true | false
 
